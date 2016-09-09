@@ -1,0 +1,2 @@
+# OKHttpTest
+这是一个OKhttp的封装工具项目，包含了基本的get和post同步异步请求和带进度的文件上传和下载
